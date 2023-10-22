@@ -5,7 +5,7 @@ Embedding dataset:
 https://www.kaggle.com/datasets/mdtariquzzamanfaisal/bangla-informal-fasttext-embedding/data
 
 
-Cite: (Currently being evaluated at by the Reviewers)
+Cite: (Currently being evaluated by the Reviewers)
 ```md
 @inproceedings{blp2023--task1-tariquzzaman,
     title = "the_linguists at BLP-2023 Task 1: A Novel Informal Bangla Fasttext Embedding for Violence Inciting Text Detection",
