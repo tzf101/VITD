@@ -1,6 +1,6 @@
 # the_linguists at BLP-2023 Task 1: A Novel Informal Bangla Fasttext Embedding for Violence Inciting Text Detection
 
-This repository contains the resources and findings of the paper titled "the_linguists at BLP-2023 Task 1: A Novel Informal Bangla Fasttext Embedding for Violence Inciting Text Detection". The paper was presented at the Proceedings of the First Workshop on Bangla Language Processing (BLP-2023) in December 2023, Singapore.
+This repository contains the resources and findings of the paper titled "the_linguists at BLP-2023 Task 1: A Novel Informal Bangla Fasttext Embedding for Violence Inciting Text Detection". The paper was presented at the Proceedings of the First Workshop on Bangla Language Processing (BLP-2023) in EMNLP on December 2023, Singapore.
 
 ### Authors
 - Md. Tariquzzaman
